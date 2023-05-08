@@ -18,7 +18,7 @@ The data source is Online Retail dataset on the [UCI Machine Learning Repository
 
 ## Results
 
-![alt text]([https://github.com/QiujiaGuo/Cohort-Retention-Analysis/blob/main/Cohort%20Retention%20Matrix.PNG)
+![alt text]([https://github.com/QiujiaGuo/Cohort-Retention-Analysis/blob/main/Cohort%20Retention%20Matrix.PNG])
 
 •	The retention rate decreased an average of 20% in Cohort 1, indicating that 80% of customers did not return in the second month after they made their first purchase.
 
