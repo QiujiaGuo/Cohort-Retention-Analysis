@@ -22,7 +22,7 @@ The data source is Online Retail dataset on the [UCI Machine Learning Repository
 
 •	The retention rate decreased an average of 20% in Cohort 1, indicating that 80% of customers did not return in the second month after they made their first purchase.
 
-•	The biggest drop in retention rate is on 2011-02-11.
+•	The biggest drop in retention rate is in December 2011 for 2011-02-02 cohort (only 7% of customers placed orders).
 
 •	The retention rate also declines about 20% over product lifetime, meaning our products fail to sustain customer interest over time.
 
