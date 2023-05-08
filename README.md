@@ -33,7 +33,7 @@ The data source is Online Retail dataset on the [UCI Machine Learning Repository
 •	There was a high retention rate (over 40%) for customers who made their first purchase during the holiday season, indicating that these customers were more loyal.
 
 
-## Actionable steps
+## Actionable Steps
 
 •	Analyze the possible factors that drive up the retention rate in August and September 2011 and see if those strategies can be implemented for February-July 2011 cohorts.
 
