@@ -1,4 +1,4 @@
-# Cohort-Retention-Analysis
+# Cohort Retention Analysis
 
 This project involves conducting a cohort retention analysis of the Online Retail dataset. The analysis was performed using SQL Server for data cleaning and aggregation, Python for additional data processing and to create a retention matrix, and Tableau for visualization. The aim of the project is to understand customer behavior, identify retention patterns over time and propose strategies to improve customer retention.
 
