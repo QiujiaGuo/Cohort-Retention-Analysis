@@ -12,8 +12,8 @@ The data source is Online Retail dataset on the [UCI Machine Learning Repository
 
 1.    Change data types for invoice date and customer ID columns.
 2.    Remove duplicates.
-3.    Delete records with null customerID values.
-2.    Remove negative values in Quantity column.
+3.    Delete records with null customerID values. Those records are for bad debt adjustment.
+2.    Remove negative values in Quantity column. Those are product returns.
 
 
 ## Results
